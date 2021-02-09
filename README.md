@@ -4,12 +4,12 @@
 
 ## Objectives
 
-- use objects to store and access data
-- learn to create methods on objects, and utilize the `this` keyword
+- [x] use objects to store and access data
+- [x] learn to create methods on objects, and utilize the `this` keyword
 
 ## Introduction
 
-You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data. 
+You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data.
 
 ## Instructions
 
@@ -38,9 +38,6 @@ Make sure you are invoking your function after defining it in order to view resu
 
 ## Resources
 
-
-
 ## Submission format
 
-Please see canvas for cohort specific submission instructions 
-
+Please see canvas for cohort specific submission instructions
